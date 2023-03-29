@@ -1,3 +1,4 @@
+/** we use a loop to interact with the user */
 import javax.swing.*;
 public class TestAuto {
 
